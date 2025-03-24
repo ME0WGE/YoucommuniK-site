@@ -39,6 +39,8 @@ nav {
   gap: 60px;
   text-align: center;
   margin-right: 50px;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 .navbarMenu > div > img {
   width: 5vw;
@@ -85,7 +87,7 @@ h3 {
 }
 /* CONTENT 2 */
 .content2 {
-  height: 40vh;
+  height: 43vh;
   margin: 0;
 }
 #titre2 > h1 > p {
