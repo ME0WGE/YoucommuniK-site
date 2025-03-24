@@ -52,9 +52,22 @@ nav {
   height: 250px;
   background-color: #334d5c;
   display: flex;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   color: #fffffe;
+  font-weight: 100;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 30px;
+}
+#contentLogo {
+  margin-left: 20vw;
+}
+#contentText {
+  margin-left: 10vw;
 }
 /* CONTENT 2 */
 .content2 {
