@@ -223,6 +223,7 @@ h3 {
 }
 #footerImg > img {
   width: 6vh;
+  padding: 10px;
 }
 #footerTitre > p {
   margin: 0;
