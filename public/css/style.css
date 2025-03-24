@@ -46,6 +46,9 @@ nav {
 .navbarMenu > div > p {
   margin: 0;
 }
+.navbarLogo > img {
+  padding-left: 1vw;
+}
 /* 
 |------------------------------------------------------|
 |                       CONTENT                        |
