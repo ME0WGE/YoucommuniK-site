@@ -40,8 +40,11 @@ nav {
   text-align: center;
   margin-right: 50px;
 }
-.navbarMenu > div img {
+.navbarMenu > div > img {
   width: 70px;
+}
+.navbarMenu > div > p {
+  margin: 0;
 }
 /* 
 |------------------------------------------------------|
@@ -99,6 +102,7 @@ h3 {
 }
 #contentText2 > p {
   margin-left: 10vw;
+  margin-right: 400px;
 }
 .content2bis {
   display: flex;
@@ -136,6 +140,7 @@ h3 {
 }
 #contentText3 > p {
   margin-left: 10vw;
+  margin-right: 400px;
 }
 .content3bis {
   display: flex;
@@ -173,6 +178,7 @@ h3 {
 }
 #contentText4 > p {
   margin-left: 10vw;
+  margin-right: 400px;
 }
 .content4bis {
   display: flex;
