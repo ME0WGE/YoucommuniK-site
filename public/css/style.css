@@ -58,7 +58,7 @@ nav {
 */
 /* CONTENT 1 */
 .content1 {
-  height: 250px;
+  height: 34vh;
   background-color: #334d5c;
   display: flex;
   justify-content: start;
@@ -67,14 +67,15 @@ nav {
   font-weight: 100;
 }
 h2 {
-  font-size: 50px;
+  font-size: 70px;
+  font-weight: normal;
 }
 h3 {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: normal;
 }
 #contentLogo {
-  margin-left: 20vw;
+  margin-left: 13vw;
 }
 #contentLogo > img {
   width: 200px;
