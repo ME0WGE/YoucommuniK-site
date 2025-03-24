@@ -78,7 +78,7 @@ h3 {
   height: 500px;
   margin: 0;
 }
-#titre > h1 > p {
+#titre2 > h1 > p {
   margin: 0;
   margin-top: 5vh;
   text-align: center;
@@ -89,6 +89,15 @@ h3 {
   font-size: 50px;
   color: #fffffe;
   font-weight: 100;
+}
+#contentLogo2 {
+  display: flex;
+  justify-content: center;
+  text-align: start;
+  margin-left: 15vw;
+}
+#contentText2 > p {
+  margin-left: 10vw;
 }
 .content2bis {
   display: flex;
@@ -105,6 +114,27 @@ h3 {
   height: 500px;
   margin: 0;
 }
+#contentLogo3 {
+  display: flex;
+  justify-content: center;
+  text-align: start;
+  margin-left: 15vw;
+}
+#titre3 > h1 {
+  margin: 0;
+  margin-top: 5vh;
+  text-align: center;
+  background-color: #334d5c;
+  padding: 1vh;
+  width: 13vw;
+  margin-left: 45vw;
+  font-size: 50px;
+  color: #fffffe;
+  font-weight: 100;
+}
+#contentText3 > p {
+  margin-left: 10vw;
+}
 .content3bis {
   display: flex;
   background-color: #eae3d5;
@@ -119,6 +149,27 @@ h3 {
 .content4 {
   height: 500px;
   margin: 0;
+}
+#contentLogo4 {
+  display: flex;
+  justify-content: center;
+  text-align: start;
+  margin-left: 15vw;
+}
+#titre4 > h1 {
+  margin: 0;
+  margin-top: 5vh;
+  text-align: center;
+  background-color: #334d5c;
+  padding: 1vh;
+  width: 13vw;
+  margin-left: 45vw;
+  font-size: 50px;
+  color: #fffffe;
+  font-weight: 100;
+}
+#contentText4 > p {
+  margin-left: 10vw;
 }
 .content4bis {
   display: flex;
