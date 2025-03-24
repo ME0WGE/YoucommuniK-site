@@ -42,6 +42,7 @@ nav {
 }
 .navbarMenu > div > img {
   width: 70px;
+  padding-bottom: 1vh;
 }
 .navbarMenu > div > p {
   margin: 0;
