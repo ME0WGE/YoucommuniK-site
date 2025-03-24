@@ -78,7 +78,7 @@ h3 {
 }
 /* CONTENT 2 */
 .content2 {
-  height: 500px;
+  height: 40vh;
   margin: 0;
 }
 #titre2 > h1 > p {
@@ -115,8 +115,11 @@ h3 {
 .content2bis > div > img {
   width: 100px;
 }
+.content2bis > div > p {
+  margin: 0;
+}
 .content3 {
-  height: 500px;
+  height: 40vh;
   margin: 0;
 }
 #contentLogo3 {
@@ -153,8 +156,11 @@ h3 {
 .content3bis > div > img {
   width: 100px;
 }
+.content3bis > div > p {
+  margin: 0;
+}
 .content4 {
-  height: 500px;
+  height: 40vh;
   margin: 0;
 }
 #contentLogo4 {
@@ -191,6 +197,9 @@ h3 {
 .content4bis > div > img {
   width: 100px;
 }
+.content4bis > div > p {
+  margin: 0;
+}
 /* 
 |------------------------------------------------------|
 |                       FOOTER                         |
@@ -209,4 +218,17 @@ h3 {
 }
 #footerImg > img {
   width: 70px;
+}
+#footerTitre > p {
+  margin: 0;
+}
+.footerCopyright {
+  margin: 0;
+  padding: 0;
+  background-color: #393a3a;
+}
+.footerCopyright > p {
+  color: #fffffe;
+  margin: 0;
+  margin-left: 96vw;
 }
