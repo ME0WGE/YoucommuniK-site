@@ -16,6 +16,7 @@ body {
   margin: 0;
   padding: 0;
   width: 65vw;
+  padding-left: 20vw;
 }
 /* 
 |------------------------------------------------------|
@@ -41,6 +42,7 @@ nav {
 |                       CONTENT                        |
 |------------------------------------------------------|
 */
+/* CONTENT 1 */
 .content1 {
   height: 250px;
   background-color: #334d5c;
@@ -48,6 +50,16 @@ nav {
   justify-content: center;
   align-items: center;
   color: #fffffe;
+}
+/* CONTENT 2 */
+.content2 {
+  height: 500px;
+  margin: 0;
+  display: flex;
+}
+#titre > h1 > p {
+  margin: 0;
+  text-align: center;
 }
 /* 
 |------------------------------------------------------|
