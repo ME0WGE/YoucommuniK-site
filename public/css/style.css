@@ -55,11 +55,21 @@ nav {
 .content2 {
   height: 500px;
   margin: 0;
-  display: flex;
 }
 #titre > h1 > p {
   margin: 0;
   text-align: center;
+}
+.content2bis {
+  display: flex;
+  background-color: #eae3d5;
+  height: 200px;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.content2bis > div > img {
+  width: 100px;
 }
 /* 
 |------------------------------------------------------|
