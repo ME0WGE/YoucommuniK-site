@@ -222,10 +222,11 @@ h3 {
   font-size: 25px;
 }
 #footerImg > img {
-  width: 70px;
+  width: 6vh;
 }
 #footerTitre > p {
   margin: 0;
+  padding-bottom: 4vh;
 }
 .footerCopyright {
   margin: 0;
