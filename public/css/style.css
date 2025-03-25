@@ -12,7 +12,7 @@ Website colors:
 |                       BODY                           |
 |------------------------------------------------------|
 */
-@media (min-width: 576px) and (max-width: 992px) {
+@media (min-width: 768px) and (max-width: 992px) {
   body {
     margin: 0;
     padding: 0;
